@@ -1,1 +1,1 @@
-web: gunicorn PythonExperiments.wsgi
+web: gunicorn web.wsgi
